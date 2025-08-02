@@ -19,3 +19,24 @@ sent via SMTP:
 - `SMTP_FROM` – optional default sender address
 
 Submitted messages will be delivered to `ninvax@icloud.com`.
+
+## Planned Site Structure
+
+The next iteration of the website will expand into a full information hub for
+NINVAX. Below is a high‑level overview of the planned sections:
+
+```
+ninvax.com
+├── Home
+├── About
+├── Business Plan & Investment
+├── Locations & Licensing
+├── Lounge Experience
+├── Technology & Innovation
+├── Community & Membership
+├── Blog & News
+└── Contact & Outreach
+```
+
+Each section will be built with modular components so the site can scale as new
+features are introduced.
